@@ -1,0 +1,11 @@
+{
+  "name": "sharp3612",
+  "version": "1.0.0",
+  "description": "https://github.com/lovell/sharp/issues/3612",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.32.1"
+  }
+}
