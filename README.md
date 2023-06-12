@@ -1,2 +1,3 @@
 # sharp3612
-3612
+
+https://github.com/lovell/sharp/issues/3612
